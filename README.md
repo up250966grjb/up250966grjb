@@ -2,7 +2,7 @@
 <head>
 <h1>Quien soy😯??</h1>
 </head>
-<body backgroung-color=#6D6C70>
+<body style="backgroung-color=#6D6C70">
   <h2>Soy Jesus Benjamin Gutierrez Reyes</h2>
   <ul>
     <li>Estudiante de Ingenieria Tecnologias de la Informacion en la UPA</li>
