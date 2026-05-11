@@ -10,5 +10,6 @@
     <li>19 Años</li>
     <li><a href="https://www.instagram.com/benjamin2592025?igsh=MXI0dmI3NjNsdGtmeQ==">Instagram</a></li>
   </ul>
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/069/844/881/small/fluffy-siberian-cat-rests-peacefully-in-curled-position-showcasing-its-beautiful-orange-fur-and-serene-expression-png.png" />
 </body>
 </html>
